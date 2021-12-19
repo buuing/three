@@ -1,2 +1,4 @@
-# three-demo
-一些小练习
+# three
+
+一些 threejs 的小 demo
+
